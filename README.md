@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nosin Ibna Mahbub</h1>
 <h3 align="center">Data Science, Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on **Research paper related to covid19**
+- 🔭 I’m currently working on **Time Series Domain Adaptation**
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning **Large (Language) Models and Foundation Models (LLM, LM, FM) for Time Series and Spatio-Temporal Data**
 
 - 👯 I’m looking to collaborate on **Any Machine Learning Project**
 
